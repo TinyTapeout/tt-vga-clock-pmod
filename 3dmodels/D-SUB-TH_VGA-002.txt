@@ -1,0 +1,2 @@
+Imported from https://www.lcsc.com/product-detail/D-Sub-DVI-HDMI-Connectors_BOOMELE-Boom-Precision-Elec-VGA-002_C138387.html
+using https://github.com/uPesy/easyeda2kicad.py
